@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: Print Message
-        run: echo "Hello from print-name workflow"
+        run: echo "Hallo from print-name workflow"
 
